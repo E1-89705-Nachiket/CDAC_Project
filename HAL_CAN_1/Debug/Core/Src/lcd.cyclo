@@ -1,0 +1,4 @@
+../Core/Src/lcd.c:12:6:LcdInit	1
+../Core/Src/lcd.c:31:6:LcdWriteNibble	1
+../Core/Src/lcd.c:42:6:LcdWriteByte	1
+../Core/Src/lcd.c:51:6:LcdPuts	2
